@@ -4,4 +4,4 @@ target
 target
 build
 *.zip
-.org.example/
+main/java/org.example/
